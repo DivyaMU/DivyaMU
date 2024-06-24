@@ -2,11 +2,12 @@
 
 ![Alt text](https://www.theblogfrog.com/wp-content/uploads/2020/06/diana3.png)
 
-Technologies & Tools:
-Languages: Kotlin, Java
-Frameworks: Android Jetpack, Retrofit, Dagger/Hilt
-Tools: Android Studio, Gradle, Git
-Libraries: Room, Glide, Firebase, Coroutines
+
+- Languages: Java, Kotlin, React-Native
+- Frameworks: Android SDK, Android Jetpack, Retrofit, SQLite, Dagger/Hilt
+- Tools: Android Studio, Microsoft Visual Studio
+- Libraries: Room, Glide, Firebase, Coroutines
+- Testing Tools: Junit, Espresso
 
 
 <!--
