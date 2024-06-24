@@ -1,6 +1,6 @@
 ## Hey Everyone, I am Divya Muralidharan, Android Mobile Application Developer👋
 
-[GITHUBIMAHGE](https://github.com/DivyaMU/DivyaMU/assets/169725170/0a0ba0f0-3d4c-4525-bcfc-95bf565ca15c)
+![alt text]([http://url/to/img.png](https://www.theblogfrog.com/wp-content/uploads/2020/06/diana3.png))
 
 Technologies & Tools:
 Languages: Kotlin, Java
